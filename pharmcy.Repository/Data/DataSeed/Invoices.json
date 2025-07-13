@@ -1,0 +1,14 @@
+[
+  {
+  
+    "IssueDate": "2023-05-15T11:00:00",
+    "TotalAmount": 76.25,
+    "CustomerId": 1
+  },
+  {
+   
+    "IssueDate": "2023-05-16T15:00:00",
+    "TotalAmount": 45.75,
+    "CustomerId": 2
+  }
+]

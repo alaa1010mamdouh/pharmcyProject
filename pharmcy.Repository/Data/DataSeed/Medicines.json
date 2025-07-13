@@ -1,0 +1,26 @@
+[
+  {
+    
+    "Name": "Panadol Extra",
+    "Description": "Pain reliever and fever reducer",
+    "Price": 25.50,
+    "StockQuantity": 100,
+    "ExpiryDate": "2025-12-31",
+    "Category": "Painkiller",
+    "Manufacturer": "GSK",
+    "Barcode": "123456789012",
+    "IsPrescriptionRequired": false
+  },
+  {
+    
+    "Name": "Amoxicillin 500mg",
+    "Description": "Antibiotic for bacterial infections",
+    "Price": 45.75,
+    "StockQuantity": 50,
+    "ExpiryDate": "2024-10-15",
+    "Category": "Antibiotic",
+    "Manufacturer": "Pfizer",
+    "Barcode": "987654321098",
+    "IsPrescriptionRequired": true
+  }
+]

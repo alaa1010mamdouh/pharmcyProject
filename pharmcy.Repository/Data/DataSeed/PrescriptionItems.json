@@ -1,0 +1,14 @@
+[
+  {
+    
+    "Dosage": "1 tablet every 6 hours",
+    "PrescriptionId": 1,
+    "MedicineId": 1
+  },
+  {
+    
+    "Dosage": "1 capsule twice daily for 7 days",
+    "PrescriptionId": 2,
+    "MedicineId": 2
+  }
+]
