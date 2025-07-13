@@ -1,0 +1,16 @@
+[
+  {
+    
+    "Quantity": 2,
+    "UnitPrice": 25.50,
+    "InvoiceId": 1,
+    "MedicineId": 1
+  },
+  {
+    
+    "Quantity": 1,
+    "UnitPrice": 45.75,
+    "InvoiceId": 2,
+    "MedicineId": 2
+  }
+]

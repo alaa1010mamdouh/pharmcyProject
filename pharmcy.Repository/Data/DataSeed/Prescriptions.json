@@ -1,0 +1,16 @@
+[
+  {
+    
+    "IssueDate": "2023-05-15T10:30:00",
+    "Diagnosis": "Common cold with fever",
+    "CustomerId": 1,
+    "UserId": 1
+  },
+  {
+    
+    "IssueDate": "2023-05-16T14:45:00",
+    "Diagnosis": "Bacterial throat infection",
+    "CustomerId": 2,
+    "UserId": 2
+  }
+]
